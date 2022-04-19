@@ -1,16 +1,12 @@
 /*
 ===================================================================
-                         Defult CSS
+                         Default CSS
 ===================================================================
 */
 body {
     margin: 0;
 
     font-family: 'Space Grotesk', sans-serif;
-
-    /* font-family: 'Satoshi';*/
-    /*font-family: 'Nunito', sans-serif;*/
-
 }
 
 h1,
@@ -72,8 +68,7 @@ h2 {
 /*start header area*/
 .header_area_section {
     background: url('../images/bg_banner.svg') no-repeat scroll 0 0 / cover;
-    /*background-position: 100%;
-	padding-bottom: 200px;*/
+    
 }
 
 .header_navber {
@@ -175,7 +170,9 @@ h2 {
 }
 
 /*end header area*/
+
 /*start banner area*/
+
 .banner_left_area {
     /*padding-left: 115px;*/
     margin-right: -100px;
@@ -227,16 +224,6 @@ h2 {
     position: relative;
 }
 
-/*.banner_left_area h1:after{
-	content: "";
-	position: absolute;
-	background: url('../images/1.png');
-	left: 0;
-	top: 0;
-	width: 100%;
-	height: auto;
-}
-*/
 .banner_left_area p {
     padding-top: 15px;
     width: 400px;
@@ -266,9 +253,6 @@ h2 {
                     End Header Area CSS
 ===================================================================
 */
-
-
-
 
 
 
@@ -319,7 +303,6 @@ h2 {
 }
 
 
-
 /*hide*/
 .desktop_hide_connect_left {
     display: none;
@@ -330,11 +313,6 @@ h2 {
                     End Connect Apps CSS
 ===================================================================
 */
-
-
-
-
-
 
 
 
@@ -682,8 +660,6 @@ input:checked+.slider:before {
 
 .navigate_top_middle p {
     color: #666666;
-    /*font-family: 'Space Grotesk', sans-serif;*/
-    /*font-family: 'Satoshi';*/
     font-family: 'Nunito', sans-serif;
     padding-left: 20px;
     width: 460px;
@@ -697,7 +673,6 @@ input:checked+.slider:before {
     border-radius: 28px;
     color: #fff;
 }
-
 
 
 /*navigate-carousel*/
@@ -837,13 +812,6 @@ input:checked+.slider:before {
 
 
 
-
-
-
-
-
-
-
 /*
 ===================================================================
                     Start Productivity Area CSS
@@ -878,13 +846,9 @@ input:checked+.slider:before {
 
 
 
-
-
-
-
 /*
 ===================================================================
-                  Start Founder Freelaner Area CSS
+                  Start Founder Freelancer Area CSS
 ===================================================================
 */
 .founder_freelancer_area_section {
@@ -894,82 +858,6 @@ input:checked+.slider:before {
     z-index: 9999;
 }
 
-/*.founder_freelancer_area_section:after{
-	content: "";
-	position: absolute;
-	background: url('../images/foun-shap1.png');
-	background-repeat: no-repeat;
-	left: 0;
-	right: 0;
-	top: 0;
-	bottom: 0;
-	z-index: 1;
-	background-size: 36%;
-}
-.founder_freelancer_area_section::before {
-	content: "";
-	position: absolute;
-	background: url('../images/foun-circle.png');
-	background-repeat: no-repeat;
-	left: 83%;
-	right: 0;
-	top: 40%;
-	bottom: 0;
-	background-size: 100%;
-}*/
-/*.founder_freelancer_area{
-	display: flex;
-	padding-left: 115px;
-}
-.founder_left_content h2{
-	color: #fff;
-}
-.founder_left_content p{
-	padding-top: 15px;
-	width: 500px;
-}
-.founder_left_content {
-	flex: 0 0 46%;
-	position: relative;
-	z-index: 9999;
-}
-.founder_right_courosel{
-	display: flex;
-	z-index: 9999;
-}
-.single_client_founder {
-	background: rgba(255,255,255, .75);
-	padding: 35px 30px 30px 30px;
-	border-radius: 20px;
-	margin-right: 20px;
-	flex: 0 0 37%;
-}
-.single_client_founder h4{
-	color: #8F8F8F;
-	font-size: 18px;
-	font-weight: 400;
-	line-height: 28.8px;
-	font-family: 'Nunito', sans-serif;
-}
-.single_client_img{
-	padding-top: 25px;
-}
-.owl-carousel .owl-item .single_client_img a img{
-	width: 40px;
-}
-
-.single_client_img{
-	display: flex;
-}
-.single_client_img a{
-	color: #8828FF;
-	font-size: 20px;
-	font-weight: 700;
-	line-height: 32px;
-	font-family: 'Nunito', sans-serif;
-	margin-left: 10px;
-}
-*/
 
 .founder_left_content h2 {
     color: #fff;
@@ -1040,11 +928,6 @@ input:checked+.slider:before {
     display: inline-block;
 }
 
-
-
-
-
-
 .founder_right_courosel .owl-next {
     width: 25px;
     height: 25px;
@@ -1114,13 +997,9 @@ input:checked+.slider:before {
 
 /*
 ===================================================================
-                    End Founder Freelaner Area CSS
+                    End Founder Freelancer Area CSS
 ===================================================================
 */
-
-
-
-
 
 
 /*
@@ -1227,10 +1106,6 @@ input:checked+.slider:before {
 .footer_bottom_middle p {
     margin-left: -170px;
 }
-
-
-
-
 
 
 .footer_middle_section_area {
